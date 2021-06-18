@@ -8,3 +8,6 @@ Se rescata el caracter ilustrativo del equipo y se encuentra una buena oportunid
 
 ## Actividad
 Se realizará una página con criterios tipográficos y cromáticos, desde lo teórico aplicado de Ittem. Además de identificar los gráficos figurativos y no figurativos. 
+
+
+### Códigos o Plantillas a Utilizar (idea)
